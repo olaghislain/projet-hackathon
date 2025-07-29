@@ -111,8 +111,8 @@ Ce projet est sous licence MIT.
 
 ## Auteurs
 
-- [Ton Nom]
-- [Collaborateurs]
+- [Gael DANSOU]
+
 
 ---
 
